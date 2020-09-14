@@ -1,1 +1,1 @@
-# DuckettCSSproj
+# Projects from Jon Duckett's book on HTML & CSS
