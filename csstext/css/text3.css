@@ -1,0 +1,23 @@
+
+@font-face {
+    font-family: 'ChunkFiveRegular';
+    src: url('fonts/chunkfive.eot');
+    src: url('fonts/chunkfive.eot?3iefix')
+    format('embedded-opentype'),
+    url('fonts/chunkfive.woff') format('woff'),
+    url('fonts/chunkfive.ttf')
+    format('truetype'),
+    url('http://www.htmlandcssbook.com/code-samples/chapter-12/fonts/chunkfive.svg#ChunkFiveRegular')
+    format('svg');
+}
+h1, h2 {
+    font-family: ChunkFiveRegular, Georgia, serif;
+    text-align:left;}
+
+p {
+    text-align: justify;
+}
+
+.credits {
+        font-style: oblique;
+        text-align: right;}
